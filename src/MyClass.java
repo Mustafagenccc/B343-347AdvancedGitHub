@@ -8,5 +8,9 @@ public class MyClass {
 
     public String string2 = "Bu da başka bir string'dir";
 
+    //version v3
+
+    public String string3 = "Bu da başka bir string'dir";
+
 
 }
