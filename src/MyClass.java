@@ -20,4 +20,7 @@ public class MyClass {
 
     //version v4
     public String string6 = "Bu da daha da başka bir string'dir";
+
+    //Version v5
+    public String string7 = "Tarabya'da villasi , cafcafli arabası";
 }
