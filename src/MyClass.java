@@ -12,5 +12,8 @@ public class MyClass {
 
     public String string3 = "Bu da başka bir string'dir";
 
+    //techpro branch, Version t1
+    public String string4 = "Bu techpro branch'inde oluşturulmuş bir string'dir";
+
 
 }
