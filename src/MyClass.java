@@ -20,4 +20,9 @@ public class MyClass {
 
     //version v4
     public String string6 = "Bu da daha da başka bir string'dir";
+
+    //Techpro branch , version t3
+    public String string7 = "Hangi string olduğunun hesabını yapamadım";
+
+
 }
