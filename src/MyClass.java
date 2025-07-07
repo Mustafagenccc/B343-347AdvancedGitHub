@@ -29,4 +29,10 @@ public class MyClass {
 
     //Techpro branch , version t4
     public String string9 = "Dar geldi sana Ankara";
+
+    //Techpro branch , version t4
+    public String string10 = "Affet beni akşam üstü";
+
+
 }
+
