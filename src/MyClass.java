@@ -36,5 +36,6 @@ public class MyClass {
     //Conflict example, t6
     public String string11 = "Bu akşam ölürüm beni kimse tutamaz";
 
+
 }
 
